@@ -12,4 +12,5 @@
     <string name="dbsChinese">星展银行</string>
     <string name="ocbcChinese">华侨银行</string>
     <string name="uobChinese">大华银行</string>
+    <string name="singapore_local_banks">Singapore Local Banks</string>
 </resources>
